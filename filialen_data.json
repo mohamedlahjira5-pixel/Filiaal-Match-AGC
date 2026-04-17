@@ -117,7 +117,7 @@
     "phone": "063/22 51 76",
     "email": "arlon@autoglassclinic.be",
     "hours": "Ma-Vrij: 08u00-17u00\nZat: 08u00-12u00",
-    "inSalesForce": false,
+    "inSalesForce": true,
     "verlof": "",
     "postcodes": [
       6700,
@@ -243,7 +243,7 @@
     "phone": "061/21 82 18",
     "email": "bastogne@autoglassclinic.be",
     "hours": "Ma-Vrij: 08u30-17u00\nZat: Gesloten",
-    "inSalesForce": false,
+    "inSalesForce": true,
     "verlof": "",
     "postcodes": [
       6600,
@@ -621,7 +621,7 @@
     "phone": "087/48 05 45",
     "email": "eupen@autoglassclinic.be",
     "hours": "Ma-Vrij: 08u30-17u00\nZat: Gesloten",
-    "inSalesForce": false,
+    "inSalesForce": true,
     "verlof": "",
     "postcodes": [
       4700,
@@ -693,7 +693,7 @@
     "phone": "089/68 01 57",
     "email": "genk@autoglassclinic.be",
     "hours": "Ma-Vrij: 08u30-17u30\nZat: Gesloten",
-    "inSalesForce": false,
+    "inSalesForce": true,
     "verlof": "",
     "postcodes": [
       3600,
@@ -1022,7 +1022,7 @@
     "phone": "061/22 53 35",
     "email": "libramont@autoglassclinic.be",
     "hours": "Ma-Do: 08u30-17u00\nVrij: 08u30-15u00\nZat: Gesloten (op afspraak)",
-    "inSalesForce": false,
+    "inSalesForce": true,
     "verlof": "",
     "postcodes": [
       5550,
@@ -1123,7 +1123,7 @@
     "phone": "080/48 02 47",
     "email": "malmedy@autoglassclinic.be",
     "hours": "Ma-Vrij: 08u30-17u00\nZat: Gesloten",
-    "inSalesForce": false,
+    "inSalesForce": true,
     "verlof": "",
     "postcodes": [
       4780,
@@ -1555,7 +1555,7 @@
     "phone": "014/48 05 83",
     "email": "turnhout@autoglassclinic.be",
     "hours": "Ma-Vrij: 08u30-17u00\nZat: Gesloten",
-    "inSalesForce": false,
+    "inSalesForce": true,
     "verlof": "",
     "postcodes": [
       2275,
